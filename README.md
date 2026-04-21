@@ -14,4 +14,4 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=Hirsang&theme=dark)
 
 ## 🏆 Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=Hirsang&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=Hirsang&theme=onedark&no-frame=true&margin-w=15)
